@@ -27,8 +27,8 @@ const rows: [string, string][] = [
   ["Place of Death", "KAJEGAON,/ काजेगाव, "],
   ["Registration Date", "28-12-2025"],
   ["Registration Unit Name", "GRAM PANCHAYAT, KAJEGAON"],
-  ["Taluka", "JALGAON JAMOD"],
-  ["District", "BULDANA"],
+  
+  ["Registration Unit Code", "03187"],
 ];
 
 /* ---------------- HEADER / NAVBAR ----------------
