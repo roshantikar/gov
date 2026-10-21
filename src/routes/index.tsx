@@ -18,7 +18,7 @@ export const Route = createFileRoute("/")({
 });
 
 const rows: [string, string][] = [
-  ["Registration Number", "27"],
+  ["Registration Number", "14"],
   ["NAME", "NARMADABAI VINAYAK SHELKE"],
   ["GENDER", "FEMALE"],
   ["DOD", "14-12-2025"],
